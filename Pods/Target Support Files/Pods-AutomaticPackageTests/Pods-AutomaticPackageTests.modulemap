@@ -1,0 +1,6 @@
+framework module Pods_AutomaticPackageTests {
+  umbrella header "Pods-AutomaticPackageTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
