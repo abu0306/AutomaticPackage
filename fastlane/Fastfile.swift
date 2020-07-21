@@ -24,12 +24,12 @@ class Fastfile: LaneFile {
 //        sh(command: "fastlane sigh download_all username:yinwan_ios@126.com")
         match()
     
-        sigh(appIdentifier: "io.automaticpackage.AutomaticPackage", username: "yinwan_ios@126.com"
+//        sigh(appIdentifier: "io.automaticpackage.AutomaticPackage", username: "yinwan_ios@126.com"
 //            adhoc:false,
 //            developerId: false,
 //            development: true,
 
-        )
+//        )
         
         //        updateCodeSigningSettings(path: "AutomaticPackage.xcodeproj", useAutomaticSigning: false,  codeSignIdentity: "Apple Development: YUANZHEN HAN", profileName: "WildcardYin", bundleIdentifier: "io.automaticpackage.AutomaticPackage")
         //
